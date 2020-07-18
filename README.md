@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/kanasir/GitHub%20integration%20with%20Azure%20Pipelines/_apis/build/status/knmsoutlook.ContosoAir?branchName=master)](https://dev.azure.com/kanasir/GitHub%20integration%20with%20Azure%20Pipelines/_build/latest?definitionId=10&branchName=master)
 
 # Microsoft.Github CI Demo
 
